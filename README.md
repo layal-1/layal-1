@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Layal Alrehaili
 
-<!--
-**layal-1/layal-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Artificial Intelligence student with a passion for data, design, and technology.  
+📊 I recently developed a data analysis project using Python to explore trends in Udemy courses.  
+🎨 I also enjoy creating user interfaces and experiences using Figma.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- 💻 Python, Jupyter Notebook
+- 📊 Pandas, Matplotlib, Seaborn
+- 🖌️ Figma for UI Design
+
+---
+
+### 📈 Featured Project
+- [Udemy Course Data Analysis](https://github.com/layal/udemy-course-analysis)
+
+---
+
+### 📫 Contact Me
+- 🔗 [LinkedIn – Layal Alrehaili](https://www.linkedin.com/in/layal-alrehaili-81042735b)
+
+---
+
+Feel free to explore my repositories and connect with me!
